@@ -1,0 +1,2 @@
+- name: Anchore Container Scan
+  uses: anchore/scan-action@v2.0.4
